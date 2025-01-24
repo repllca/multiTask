@@ -1,0 +1,9 @@
+redis
+google-api-python-client
+google-generativeai
+scp
+paramiko
+yt_dlp
+moviepyj:w
+
+moviepy==2.0.0.dev2
